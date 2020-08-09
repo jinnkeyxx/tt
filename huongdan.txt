@@ -1,0 +1,23 @@
+Chào các bạn hôm nay mình sẽ hướng dẫn các bạn sử dụng tool cầy xu traodoisub.com
+Hướng dẫn sử dụng tool
+
+Cài đặt cấu hình chạy trong file config.ini
+user_tds = taikhoan_traodoisub
+pass_tds = matkhau_traodoisub
+like = on (on là chọn còn off là không chọn làm nv like)
+page = on (nhiệm vụ like page)
+sub = on (nhiệm vụ sub)
+delay_vong = thời gian nghỉ 1 vòng tầm 1-2 phút là vừa
+delay_sub = thời gian nghỉ giữa các lần sub
+delay_like = thời gian nghỉ giữa các lần like
+delay_page = thời gian nghỉ giữa các lần like page
+vonglap = số vòng lập mình để 1 để test
+nhiemvu1vong = số nhiệm vụ làm trong 1 vòng của một id
+
+Lấy cookie nha => đầu tiên vào fb ấn f12
+==========
+Lưu ý:  add những id trong list cookie vào cấu hình trước khi chạy.
+thêm cookie facebook vào file cookie.txt mỗi cookie 1 dòng (nếu nhiều nick facebook thì mỗi cookie một dòng)
+Nay chạy 2 nick nhá
+Chạy xtab thì coppy folder ra config lại.
+Ok giờ chạy file tool.exe nha!
